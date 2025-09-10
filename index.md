@@ -5,18 +5,23 @@ layout: default
 
 ---
 ## Topics
-The field of Artificial Intelligence (AI) has seen remarkable progress. However, conventional deep learning approaches frequently encounter limitations in energy efficiency, real-time processing, and adaptability within dynamic environments. Neuromorphic intelligence presents a compelling paradigm shift, inspired by the brain's exceptionally efficient and parallel processing capabilities.
-
-This workshop aims to highlight interdisciplinary advances in neuromorphic intelligence, from software algorithms to hardware systems , as well as their synergistic co-design. 
+- Neuromorphic Sensing: Neuromorphic sensors (event sensors, spike sensors), data representation, simulation, processing, and applications (in Computer Vision, Audio, etc.).
+- Neuromorphic Networks: Spiking Neural Networks (SNNs), Neuromorphic learning algorithms, Neuromorphic temporal processing.
+- Algorithm-Hardware Co-design: Interplay between neuromorphic algorithms and their underlying hardware architecture.
+- Benchmarking: Establish standardized neuromorphic methodologies and datasets to evaluate the performance, efficiency, and robustness of neuromorphic systems.
 
 ## Format of Workshop
-The workshop aims to attract submissions of long (max. 8 pages) and short (max. 4 pages) papers that delve into the fascinating realm of Neuromorphic Intelligence. 
+This is a one-day workshop featuring a mix of invited talks, paper presentations, and a panel session. The workshop is organized around specific topics, fostering a deep dive into the core research challenges and advancements in neuromorphic intelligence.
 
-The submissions that present theoretical advancements, practical applications, and experimental results that push the boundaries of energy-efficient and real-time AI solutions inspired by the brain and neural systems, are encouraged.
+## Submission
+We invite submissions that present theoretical advancements, practical applications, and experimental results in the field of brain-inspired, energy-efficient, and real-time AI.
+Submissions should be formatted using the AAAI template. Long papers are limited to a maximum of 8 pages, while short papers are limited to a maximum of 4 pages, both excluding references.
+Please note that this workshop does not have formal proceedings.
 
-## Submission Site
-Coming Soon
+Please submit your papers to the following OpenReview website:
+https://openreview.net/group?id=AAAI.org/2026/Workshop/NI
 
+Contact: neurointelworkshop@googlegroups.com
 
 ## Important Dates
 
