@@ -26,7 +26,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 title: "Neuromorphic Intelligence: From Algorithm to System"
 date: Jan. 26 or 27, 2026
 location: Singapore
-description: part of the 40th AAAI Conference on Artificial Intelligence (AAAI) 2026
+description: Part of the 40th AAAI Conference on Artificial Intelligence (AAAI) 2026
 plugins:
   - jekyll-remote-theme
 
