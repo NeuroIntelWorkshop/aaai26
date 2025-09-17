@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-## Descriptions
 
 This workshop aims to highlight interdisciplinary advances in neuromorphic intelligence, from software algorithms to hardware systems and their synergistic co-design. It is inspired by the brain's efficient and parallel processing capabilities, which provide a compelling paradigm shift to
 address limitations of conventional deep learning in energy efficiency, real-time processing, and adaptability within dynamic environments.
