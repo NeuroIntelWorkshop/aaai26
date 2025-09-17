@@ -31,7 +31,7 @@ Note: all deadlines are “anywhere on earth” (UTC-12)
 
 - Paper submission deadline: October 22, 2025
 - Paper notification: November 5, 2025
-- Workshop: January 26, 2026
+- Workshop: January 27, 2026
 
 ## Workshop Committee
 - Dr. Yueyi Zhang, MiroMind, zhyuey@gmail.com
@@ -39,6 +39,10 @@ Note: all deadlines are “anywhere on earth” (UTC-12)
 - Prof. Lin Wang, Nanyang Technological University, linwang@ntu.edu.sg
 - Prof. Zhiwei Xiong, University of Science and Technology of China, zwxiong@ustc.edu.cn
 - Prof. Pascal Vasseur, University of Picardie Jules Verne, pascal.vasseur@u-picardie.fr
+
+## Workshop Schedule
+
+Coming Soon
 
 
 
