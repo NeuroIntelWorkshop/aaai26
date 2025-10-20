@@ -18,6 +18,7 @@ This is a one-day workshop featuring a mix of invited talks, paper presentations
 ## Submission
 We invite submissions that present theoretical advancements, practical applications, and experimental results in the field of brain-inspired, energy-efficient, and real-time AI.
 Submissions should be formatted using the AAAI template. Long papers are limited to a maximum of 8 pages, while short papers are limited to a maximum of 4 pages, both excluding references.
+
 Please note that this workshop does not have formal proceedings.
 
 Please submit your papers to the following OpenReview website:
@@ -29,8 +30,8 @@ Contact: neurointelworkshop@googlegroups.com
 
 Note: all deadlines are “anywhere on earth” (UTC-12)
 
-- Paper submission deadline: October 22, 2025
-- Paper notification: November 5, 2025
+- Paper submission deadline: ~~October 22, 2025~~ October 29, 2025
+- Paper notification: ~~November 5, 2025~~ November 10, 2025
 - Workshop: January 27, 2026
 
 ## Workshop Committee
