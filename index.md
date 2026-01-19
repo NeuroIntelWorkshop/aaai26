@@ -43,9 +43,10 @@ Note: all deadlines are “anywhere on earth” (UTC-12)
 
 ## Workshop Schedule
 Time: Jan. 27, 2026
+
 Location: Conference H, Singapore Expo
 
----
+Poster Location:  Level 2 of the Singapore EXPO (not in the Expo Halls) WS11-WS14
 
 **9:00 - 9:10 AM | Opening**
 * **Dr. Yueyi Zhang** (Midea, China)
