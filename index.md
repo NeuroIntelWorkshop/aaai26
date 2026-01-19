@@ -44,19 +44,44 @@ Note: all deadlines are “anywhere on earth” (UTC-12)
 ## Workshop Schedule
 Time: Jan. 27, 2026
 Location: Conference H, Singapore Expo
-| Time | Speaker |  Affiliation | Type | Title |
-| :--- | :--- | :--- | :--- | :--- |
-| 9:00-9:10 AM| Dr. Yueyi Zhang | Midea, China | |Opening |
-| 9:10-9:45 AM| Prof. Gim Hee Lee  | NUS, Singapore | Invited Talk  | TBD |
-| 9:45-10:20 AM| Prof. Lin Wang | NTU, Singapore| Invited Talk| When Bio-inspired Sensing Meet Foundation AI Models: Challenges and Approaches for Embodied AI| 
-| 10:20-11:05 AM| Prof. Zhiwei Xiong| USTC, China| Invited Talk | High-speed and High Dynamic Range 3D Sensing with Event-based Structured Light|
-| 11:05-11:30 AM| Yunshan Qi| BUAA, China| Oral Presentation of Accepted Paper| E3NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images|
-| 11:30 AM - 1:30 PM| Break|||
-| 1:30 - 2:10 PM| Daye Kang| Seoul City University, Korea| Oral Presentation of Accepted Papers| 1. Adaptive Spiking Transformer for SAR Image Classification 2. Reinforcement-Learned Dynamic Execution for Spiking Swin-B|
-| 2:10 - 2:45 PM| Dr. Benoit Cottereau | CNRS, France |Invited Talk | Scene understanding with bio-inspired and efficient AI|
-| 2:45 - 3:20 PM | Dr. Danda Paudel | INSAIT,  Sofia University，Bulgaria | Invited Talk | TBD|
-| 3:20 - 3:55 PM| Dr. Manon Dampfhoffer | CEA, France | Invited Talk | Harnessing Graph Neural Networks and Neuromorphic Sensors for Low-latency, Low-power Edge AI |
-| 3:55 - 4:00 PM| Dr. Yueyi Zhang | Midea, China || Closing|
+
+---
+
+**9:00 - 9:10 AM | Opening**
+* **Dr. Yueyi Zhang** (Midea, China)
+
+**9:10 - 9:45 AM | Invited Talk: TBD**
+* **Prof. Gim Hee Lee** (NUS, Singapore)
+
+**9:45 - 10:20 AM | Invited Talk: When Bio-inspired Sensing Meet Foundation AI Models: Challenges and Approaches for Embodied AI**
+* **Prof. Lin Wang** (NTU, Singapore)
+
+**10:20 - 11:05 AM | Invited Talk: High-speed and High Dynamic Range 3D Sensing with Event-based Structured Light**
+* **Prof. Zhiwei Xiong** (USTC, China)
+
+**11:05 - 11:30 AM | Oral Presentation: E3NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**
+* **Yunshan Qi** (BUAA, China)
+
+---
+**11:30 AM - 1:30 PM | Break**
+---
+
+**1:30 - 2:10 PM | Oral Presentations**
+* **Daye Kang** (Seoul City University, Korea)
+* *1. Adaptive Spiking Transformer for SAR Image Classification*
+* *2. Reinforcement-Learned Dynamic Execution for Spiking Swin-B*
+
+**2:10 - 2:45 PM | Invited Talk: Scene understanding with bio-inspired and efficient AI**
+* **Dr. Benoit Cottereau** (CNRS, France)
+
+**2:45 - 3:20 PM | Invited Talk: TBD**
+* **Dr. Danda Paudel** (INSAIT, Sofia University, Bulgaria)
+
+**3:20 - 3:55 PM | Invited Talk: Harnessing Graph Neural Networks and Neuromorphic Sensors for Low-latency, Low-power Edge AI**
+* **Dr. Manon Dampfhoffer** (CEA, France)
+
+**3:55 - 4:00 PM | Closing**
+* **Dr. Yueyi Zhang** (Midea, China)
 
 ## Accepted Papers
 1. "Adaptive Spiking Transformer for SAR Image Classification," Donghun Kang, Daye Kang, Hyeongboo Baek
