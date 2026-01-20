@@ -57,14 +57,14 @@ Poster Location:  Level 2 of the Singapore EXPO (not in the Expo Halls) WS11-WS1
 **9:45 - 10:20 AM | Invited Talk: When Bio-inspired Sensing Meet Foundation AI Models: Challenges and Approaches for Embodied AI**
 * **Prof. Lin Wang** (NTU, Singapore)
 
-**10:20 - 11:05 AM | Invited Talk: High-speed and High Dynamic Range 3D Sensing with Event-based Structured Light**
+**10:20 - 10:55 AM | Invited Talk: High-speed and High Dynamic Range 3D Sensing with Event-based Structured Light**
 * **Prof. Zhiwei Xiong** (USTC, China)
 
-**11:05 - 11:30 AM | Oral Presentation: E3NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**
+**10:55 - 11:20 AM | Oral Presentation: E3NeRF: Efficient Event-Enhanced Neural Radiance Fields from Blurry Images**
 * **Yunshan Qi** (BUAA, China)
 
 ---
-**11:30 AM - 1:30 PM | Break**
+**11:20 AM - 1:30 PM | Break**
 ---
 
 **1:30 - 2:10 PM | Oral Presentations**
