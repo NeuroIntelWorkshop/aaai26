@@ -75,13 +75,16 @@ Poster Location:  Level 2 of the Singapore EXPO (not in the Expo Halls) WS11-WS1
 **2:10 - 2:45 PM | Invited Talk: Scene understanding with bio-inspired and efficient AI**
 * **Dr. Benoit Cottereau** (CNRS, France)
 
-**2:45 - 3:20 PM | Invited Talk: TBD**
-* **Dr. Danda Paudel** (INSAIT, Sofia University, Bulgaria)
-
+* **2:45 - 3:20 PM | Invited Talk: TBD**
+* **Prof. Sandamirskaya Yulia ** (Zurich University of Applied Sciences, Switzerland)
+* 
 **3:20 - 3:55 PM | Invited Talk: Harnessing Graph Neural Networks and Neuromorphic Sensors for Low-latency, Low-power Edge AI**
 * **Dr. Manon Dampfhoffer** (CEA, France)
 
-**3:55 - 4:00 PM | Closing**
+* **3:55 - 4:30 PM | Invited Talk: TBD**
+* **Dr. Danda Paudel** (INSAIT, Sofia University, Bulgaria)
+
+**4:30 - 4:35 PM | Closing**
 * **Dr. Yueyi Zhang** (Midea, China)
 
 ## Accepted Papers
