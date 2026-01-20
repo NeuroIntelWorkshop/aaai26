@@ -76,7 +76,7 @@ Poster Location:  Level 2 of the Singapore EXPO (not in the Expo Halls) WS11-WS1
 * **Dr. Benoit Cottereau** (CNRS, France)
 
 **2:45 - 3:20 PM | Invited Talk: TBD**
-* **Prof. Sandamirskaya Yulia ** (Zurich University of Applied Sciences, Switzerland)
+* **Prof. Sandamirskaya Yulia** (Zurich University of Applied Sciences, Switzerland)
 
 **3:20 - 3:55 PM | Invited Talk: Harnessing Graph Neural Networks and Neuromorphic Sensors for Low-latency, Low-power Edge AI**
 * **Dr. Manon Dampfhoffer** (CEA, France)
