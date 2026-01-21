@@ -51,7 +51,7 @@ Poster Location:  Level 2 of the Singapore EXPO (not in the Expo Halls) WS11-WS1
 **9:00 - 9:10 AM | Opening**
 * **Dr. Yueyi Zhang** (Midea, China)
 
-**9:10 - 9:45 AM | Invited Talk: TBD**
+**9:10 - 9:45 AM | Invited Talk: Event-Driven Perception for Depth, Motion, and Continuous Scene Understanding**
 * **Prof. Gim Hee Lee** (NUS, Singapore)
 
 **9:45 - 10:20 AM | Invited Talk: When Bio-inspired Sensing Meet Foundation AI Models: Challenges and Approaches for Embodied AI**
